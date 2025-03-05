@@ -1,0 +1,6 @@
+pip install 
+streamlit    
+torch
+torchvision
+transformers
+pillow
