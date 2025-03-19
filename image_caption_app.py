@@ -34,7 +34,7 @@ if uploaded_file is not None:
 st.markdown("\n*Powered by BLIP Transformer Model*")
 
 
-//////Updated code for proposed model
+//Updated code for proposed model
 
 import streamlit as st
 import tensorflow as tf
